@@ -189,3 +189,7 @@ public function getSettingsResponse()
 ```
 
 Just note that whatever it returns needs to make sense as something a controller action would return, because that’s exactly what’s happening. The <craft3:craft\controllers\PluginsController::actionEditPluginSettings()> method returns whatever `getSettingsResponse()` returns directly.
+
+### Form Fields
+
+To be added
