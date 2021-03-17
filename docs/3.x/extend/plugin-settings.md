@@ -193,3 +193,5 @@ Just note that whatever it returns needs to make sense as something a controller
 ### Form Fields
 
 To be added
+Form fields (along with accepted attributes) can be found in \vendor\craftcms\cms\src\templates\_includes\forms\
+Each field has it's own .html file.
